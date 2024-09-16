@@ -1,4 +1,4 @@
-const apiKey = '14c9fdf17e150e064d0ed3f71ecdf0bb'; // Add your API key here
+const apiKey = 'Your_Api_Key'; // Add your API key here
 const symbol = 'NIFTY50'; // Assuming Nifty50 is the symbol in the API
 const interval = '5min'; // 5-minute interval
 
